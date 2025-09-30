@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumitmarandi47" target="blank"><img src="https://img.shields.io/twitter/follow/sumitmarandi47?logo=twitter&style=for-the-badge" alt="sumitmarandi47" /></a> </p>
 
-- 🔭 I’m currently working on [unpost club - santhali music video embedded website](https://www.unpost.club)
+- 🔭 I’m currently working on [unpost club](https://www.unpost.club)
 
 - 🌱 I’m currently learning **React, Expo, MongoDB, Docker, etc.**
 
